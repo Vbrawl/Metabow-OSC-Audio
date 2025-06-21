@@ -1,0 +1,9 @@
+psutil
+python-osc
+bleak
+numpy
+sounddevice
+pyaudio
+scipy
+librosa
+matplotlib
