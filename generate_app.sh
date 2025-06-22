@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pyinstaller main.py
+pyinstaller --noconfirm main.spec
